@@ -1,3 +1,4 @@
+
 How to calculate BMI
 a=float(input('please enter your weight in kg :   '))
 b=float(input('please enter your height in m  :   '))
